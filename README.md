@@ -19,6 +19,11 @@ To train and validate our mode, it is not necessary to run the entire file. Foll
 2. Run all the cells in the "Data loading, preprocessing and basic visualization" category. This cell loads the training data and preprocesses the images
 3. In Task 1, run the first 3 subcategories ("Initialization", "Training custom ResNet-18 on colorectal cancer dataset", "Evaluation"). If you wish to also visualize the extracted features from the trained model, run the "Visualization of features" category.
 
+## Instruction on how to run the pre-trained model (custom-trained model) on sample 100 images:
+
+1. After running 'Initialization' cell the loader of 100 images is created.
+2. Simply Run the last cell 'Evaluation on 100 images dataset'
+
 # COMP432-GroupG Members
 |Name|GitHub @|
 |-----|----------|
