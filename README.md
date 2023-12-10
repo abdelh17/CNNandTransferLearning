@@ -19,6 +19,23 @@ To train and validate our mode, it is not necessary to run the entire file. Foll
 2. Run all the cells in the "Data loading, preprocessing and basic visualization" category. This cell loads the training data and preprocesses the images
 3. In Task 1, run the first 3 subcategories ("Initialization", "Training custom ResNet-18 on colorectal cancer dataset", "Evaluation"). If you wish to also visualize the extracted features from the trained model, run the "Visualization of features" category.
 
+## Description on how to obtain the Dataset from an available download link
+The dataset used in the project is composed of three sub datasets: 1 for colorectal cancer, 1 for prostate cancer, 1 for animal faces. 
+
+Below is the link for each individual subset:  
+
+**Animal faces:** https://1drv.ms/u/s!AilzKc-njjP7mN0LqoRZvUYONY9sbQ?e=wxWbip
+
+**Prostate cancer:** https://1drv.ms/u/s!AilzKc-njjP7mN0M_LjB5xeAydDsrA?e=0obzsx
+
+**Colorectal cancer:** https://1drv.ms/u/s!AilzKc-njjP7mN0NOZvxl0TPAUxmig?e=K0TpeX  
+
+In the project, we made a zip file of these three datasets and stored it in a shared google drive asa  zip file.
+At the beginning of the Python Notebook, we use the !gdown command to load the file from its host.
+To download the file directly to access the data, follow the following link and unzip the file.
+
+**Project dataset:** https://drive.google.com/uc?id=1wK7-PccXDY7tGTzQpwLD7Ok1krBxcvhi
+
 # COMP432-GroupG Members
 |Name|GitHub @|
 |-----|----------|
