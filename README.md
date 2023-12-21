@@ -1,4 +1,4 @@
-# Image Classification With CNNs and Transfer Learning
+# CNN Based Classification and Transfer Learning
 
 ## Project Overview
 
@@ -44,10 +44,4 @@ To download the file directly to access the data, follow the following link and 
 2. Simply Run the last cell 'Evaluation on 100 images dataset'
 
 
-# COMP432-GroupG Members
-|Name|GitHub @|
-|-----|----------|
-|Abdelkader Habel|abdelh17|
-|Ali Abdel-Jalil|Alphonso11|
-|Oussama Cherifi|OussamaCherifi|
 |Zakaria El Manar El Bouanani|Zakaria0907|
