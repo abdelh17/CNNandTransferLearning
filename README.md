@@ -2,7 +2,17 @@
 
 ## Project Overview
 
-This project investigates the transfer learning capabilities of Convolutional Neural Networks (CNNs) in image classification. We employed the ResNet-18 architecture to develop two models: one custom-trained on a colorectal cancer dataset and another pre-trained on ImageNet1k. Our focus was on colorectal and prostate cancer images, as well as on animal faces, to evaluate model performance in feature extraction and classification. Main techniques involved preprocessing, feature extraction using ResNet-18 models, and classification with K-Nearest Neighbors (KNN) and Support Vector Machine (SVM) algorithms. 
+This project investigates the transfer learning capabilities of Convolutional Neural Networks (CNNs) in image classification. We employed the ResNet-18 architecture to develop two models: one custom-trained on a colorectal cancer dataset and another pre-trained on ImageNet1k. Our focus was on colorectal and prostate cancer images, as well as on animal faces, to evaluate model performance in feature extraction and classification. Main techniques involved preprocessing, feature extraction using ResNet-18 models, and classification with K-Nearest Neighbors (KNN) and Support Vector Machine (SVM) algorithms.
+
+## Various Screenshots of Data Analysis & Results
+
+![image](https://github.com/abdelh17/CNNandTransferLearning/assets/90121483/077e7aad-548a-4ed0-9d27-34a5b628ebff)
+![image](https://github.com/abdelh17/CNNandTransferLearning/assets/90121483/936fa721-1182-4346-958d-2d95227dd109)
+![image](https://github.com/abdelh17/CNNandTransferLearning/assets/90121483/6822b2e2-378d-4b98-87e3-a16d59184e1b)
+![image](https://github.com/abdelh17/CNNandTransferLearning/assets/90121483/2f9b027c-2456-4b8b-9cb6-d8d8838bc5a1)
+![image](https://github.com/abdelh17/CNNandTransferLearning/assets/90121483/ce64bc56-1fb4-4ab0-992a-5adfb9fa1b7c)
+![image](https://github.com/abdelh17/CNNandTransferLearning/assets/90121483/fb935073-1168-4ab2-8f53-4b4e14377688)
+![image](https://github.com/abdelh17/CNNandTransferLearning/assets/90121483/58ee474e-fcd3-409c-8f41-30ab5a5eb7a2)
 
 ## Requirements to run the notebook
 <ol>
