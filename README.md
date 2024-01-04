@@ -12,7 +12,7 @@ This project investigates the transfer learning capabilities of Convolutional Ne
 
 ![image](https://github.com/abdelh17/CNNandTransferLearning/assets/90121483/077e7aad-548a-4ed0-9d27-34a5b628ebff)
 
-<li>Results</li>
+<li>Accuracy and Loss through epochs</li>
 
 ![image](https://github.com/abdelh17/CNNandTransferLearning/assets/90121483/936fa721-1182-4346-958d-2d95227dd109)
 
@@ -51,7 +51,7 @@ This project investigates the transfer learning capabilities of Convolutional Ne
 
 The code cell should be enough, the Colab environment comes prepackaged with all libraries needed for the project.
 
-## Instruction on how to train/validate your model
+## Instruction on how to train/validate our model
 To train and validate our mode, it is not necessary to run the entire file. Follow the steps below, in the same order.
 1. Run the first code cell, with the import statements
 2. Run all the cells in the "Data loading, preprocessing and basic visualization" category. This cell loads the training data and preprocesses the images
@@ -75,11 +75,3 @@ To download the file directly to access the data, follow the following link and 
 
 **Project dataset:** https://drive.google.com/uc?id=1wK7-PccXDY7tGTzQpwLD7Ok1krBxcvhi
 
-
-## Instruction on how to run the pre-trained model (custom-trained model) on sample 100 images:
-
-1. After running 'Initialization' cell the loader of 100 images is created.
-2. Simply Run the last cell 'Evaluation on 100 images dataset'
-
-
-|Zakaria El Manar El Bouanani|Zakaria0907|
